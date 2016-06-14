@@ -41,6 +41,9 @@ let routes = {
 					});
 			}
 		},
+		'POST':{
+
+		},
 		'NA':(req,res)=>{
 			res.writeHead(404);
 			res.end('Content Not Found');
