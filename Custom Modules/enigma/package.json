@@ -1,0 +1,14 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "Enigma helps you to encrypt and dycrypt text strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeetendra Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}

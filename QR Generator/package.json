@@ -1,0 +1,14 @@
+{
+  "name": "qr-gen",
+  "version": "1.0.0",
+  "description": "QR Code Generator Node js example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeetendra Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}
