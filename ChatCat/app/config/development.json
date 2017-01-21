@@ -1,10 +1,10 @@
 {
 	"host":"http://localhost:3000",
-	"dbURI":"mongodb://myccuser:abcd1234@ds035643.mlab.com:35643/myccdb"
+	"dbURI":"mongodb://myccuser:abcd1234@ds.mlab.com:35643/myccdb"
 	"sessionSecret":"catscanfly"
   "fb":{
-    "clientID":"1054484867995605",
-    "clientSecret":"8773b1f1f26b104298de6057faafc9af",
+    "clientID":"",
+    "clientSecret":"",
     "callbackURL":"//localhost:3000/auth/facebook/callback",
     "profileFields":["id","displayName","photos"]
   }
